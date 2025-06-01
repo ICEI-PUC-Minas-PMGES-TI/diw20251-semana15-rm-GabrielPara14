@@ -9,10 +9,10 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Gabriel Alves de Moura Pará
+- Matricula: 895130
+- Proposta de projeto escolhida: Site de notícias
+- Breve descrição sobre seu projeto: Site com banner principal, menu de navegação e outras notícias abaixo do banner, responsividade para todos os tipos de aparelhos, mecanismo de busca por categoria e caractere, rodapé com informações sobre o site.
 
 **Print da tela com a implementação**
 
