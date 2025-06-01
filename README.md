@@ -18,6 +18,6 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 << Coloque aqui uma breve explicação da implementação feita nessa etapa>>
 
-<<  COLOQUE A IMAGEM TELA 1 AQUI >>
+<< ![alt text](<colocar conteudo.png>)  >>
 
-<<  COLOQUE A IMAGEM TELA 2 AQUI >>
+<< ![alt text](<deletar conteudo.png>)  >>
