@@ -1,17 +1,25 @@
 {
-
-  "name": "template-diw-20251-semana-12",
+  "name": "diw20251-semana15-rm-gabrielpara14",
   "version": "1.0.0",
-  "description": "Nesta atividade, você irá completar o projeto anterior permitindo cadastrar e alterar dados da entidade principal do do seu projeto a partir da estrutura criada na etapa anterior com o JSONServer. Para isso, crie uma **página de cadastro (cadastro_[ENTIDADE].html)**, que deve mostrar um formulário para cadastrar a entidade principal do projeto. OBS: Troque [ENTIDADE] pelo nome da sua entidade principal.",
+  "description": "A partir dos dados cadastrados na etapa anterior, vamos trabalhar formas de apresentação que representem de forma clara e interativa as informações do seu projeto. Você poderá usar gráficos (barra, linha, pizza), mapas, calendários ou outras formas de visualização. Seu desafio é entregar uma página Web que organize, processe e exiba os dados de forma compreensível e esteticamente agradável.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "json-server --watch ./db/db.json"
+    "start": "json-server --watch db/db.json --port 3000 --static ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "json-server": "^0.17.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICEI-PUC-Minas-PMGES-TI/diw20251-semana15-rm-GabrielPara14.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ICEI-PUC-Minas-PMGES-TI/diw20251-semana15-rm-GabrielPara14/issues"
+  },
+  "homepage": "https://github.com/ICEI-PUC-Minas-PMGES-TI/diw20251-semana15-rm-GabrielPara14#readme",
+  "dependencies": {
+    "fullcalendar": "^6.1.17",
+    "json-server": "^1.0.0-beta.3"
+  }
 }
